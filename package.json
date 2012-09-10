@@ -1,0 +1,15 @@
+{
+  "author": "Derek Reynolds <derekr@me.com> (whatupderek.com)",
+  "name": "csslint.chocmixin",
+  "description": "A mixin for the Chocolat text editor that provides CSSLint functionality.",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": { "csslint": "0.9.8" },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
